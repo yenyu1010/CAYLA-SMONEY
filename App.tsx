@@ -33,7 +33,7 @@ import AddDividendModal from './components/modals/AddDividendModal';
 
 const INITIAL_USERS: User[] = [
   { id: 'u1', name: '楠仔' },
-  { id: 'u2', name: '家人A' }
+  { id: 'u2', name: '盼盼' }
 ];
 
 const LOCAL_STORAGE_KEY = 'investment_portfolio_data_v1';
